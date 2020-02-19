@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"زكريا",
+			"أحمد غربية"
+		]
+	},
+	"disambig-desc": "إضافة العلامة  <code><nowiki>__DISAMBIG__</nowiki></code> لتمييز [[Special:DisambiguationPages|صفحات التوضيح]]",
+	"disambiguationpages": "صفحات توضيح",
+	"disambiguationpages-summary": "هذه قائمة بكافة صفحات التوضيح في {{SITENAME}}.<br />\nتعد الصفحة من صفحات التوضيح إذا احتوت على <code><nowiki>__DISAMBIG__</nowiki></code> أو <code><nowiki>__توضيح__</nowiki></code>.",
+	"disambiguationpagelinks": "الصفحات التي تربط إلى صفحات توضيح",
+	"disambiguationpagelinks-summary": "تحتوي كل من الصفحات التالية على رابط أو أكثر إلى صفحة توضيح.\nو&nbsp;أحيانا يكون الأنسب الربط مباشرة الصفحة الملائمة بدل صفحة توضيح.<br />\nتعد الصفحة صفحة توضيح إذا احتوت على <code><nowiki>__DISAMBIG__</nowiki></code> أو <code><nowiki>__توضيح__</nowiki></code>.",
+	"visualeditor-dialog-meta-settings-disambiguation-label": "هذه صفحة توضيح"
+}
