@@ -108,24 +108,24 @@ $namespaceNames = [
 	NS_SPECIAL          => 'خاص',
 	NS_TALK             => 'نقاش',
 	NS_USER             => 'مستخدم',
-	NS_USER_TALK        => 'نقاش_المستخدم',
+	NS_USER_TALK        => 'نقاش_مستخدم',
 	NS_PROJECT_TALK     => 'نقاش_$1',
 	NS_FILE             => 'ملف',
-	NS_FILE_TALK        => 'نقاش_الملف',
+	NS_FILE_TALK        => 'نقاش_ملف',
 	NS_MEDIAWIKI        => 'ميدياويكي',
 	NS_MEDIAWIKI_TALK   => 'نقاش_ميدياويكي',
 	NS_TEMPLATE         => 'قالب',
-	NS_TEMPLATE_TALK    => 'نقاش_القالب',
+	NS_TEMPLATE_TALK    => 'نقاش_قالب',
 	NS_HELP             => 'مساعدة',
-	NS_HELP_TALK        => 'نقاش_المساعدة',
+	NS_HELP_TALK        => 'نقاش_مساعدة',
 	NS_CATEGORY         => 'تصنيف',
-	NS_CATEGORY_TALK    => 'نقاش_التصنيف',
+	NS_CATEGORY_TALK    => 'نقاش_تصنيف',
 ];
 
 $namespaceAliases = [
 	'وسائط' => NS_MEDIA,
 	'صورة' => NS_FILE,
-	'نقاش_الصورة' => NS_FILE_TALK,
+	'نقاش_صورة' => NS_FILE_TALK,
 ];
 
 $namespaceGenderAliases = [
@@ -324,12 +324,12 @@ $specialPageAliases = [
 	'Booksources'               => [ 'مصادر_كتاب' ],
 	'BotPasswords'              => [ 'كلمات_سر_الروبوت' ],
 	'BrokenRedirects'           => [ 'تحويلات_مكسورة' ],
-	'Categories'                => [ 'تصنيفات' ],
+	'Categories'                => [ 'التصنيفات' ],
 	'ChangeContentModel'        => [ 'تغيير_نموذج_المحتوى' ],
 	'ChangeCredentials'         => [ 'تغيير_المسوغات' ],
 	'ChangeEmail'               => [ 'تغيير_البريد' ],
 	'ChangePassword'            => [ 'تغيير_كلمة_السر', 'ضبط_كلمة_السر' ],
-	'ComparePages'              => [ 'مقارنة_الصفحات' ],
+	'ComparePages'              => [ 'مقارنة_صفحتين' ],
 	'Confirmemail'              => [ 'تأكيد_البريد' ],
 	'Contributions'             => [ 'مساهمات' ],
 	'CreateAccount'             => [ 'إنشاء_حساب' ],
@@ -429,7 +429,7 @@ $specialPageAliases = [
 	'Wantedpages'               => [ 'صفحات_مطلوبة' ],
 	'Wantedtemplates'           => [ 'قوالب_مطلوبة' ],
 	'Watchlist'                 => [ 'قائمة_المراقبة' ],
-	'Whatlinkshere'             => [ 'ماذا_يربط_هنا' ],
+	'Whatlinkshere'             => [ 'ما_يربط_هنا' ],
 	'Withoutinterwiki'          => [ 'بلا_إنترويكي' ],
 ];
 
