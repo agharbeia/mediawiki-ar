@@ -440,7 +440,7 @@
 	"flow-special-uuid": "المعرف الفريد العالمي",
 	"flow-special-invalid-uuid": "تعذّر العثور على محتوى يطابق النوع والمعرف الفريد العالمي.",
 	"flow-special-enableflow-legend": "تمكين ميزة النقاشات المُهَيْكَلَة على صفحة جديدة",
-	"flow-special-enableflow-page": "الصفحة لتفعيل النقاشات المُهَيْكَلَة عليها",
+	"flow-special-enableflow-page": "عنوان صفحة لتفعيل النقاشات المُهَيْكَلَة فيها",
 	"flow-special-enableflow-header": "الوصف الأولي لصفحة النقاشات المُهَيْكَلَة (نص ويكي).",
 	"flow-special-enableflow-board-already-exists": "هناك بالفعل منتدى نقاشات هيكلية في [[$1]].",
 	"flow-special-enableflow-invalid-title": "عنوان خاطئ للصفحة.",
