@@ -552,7 +552,7 @@
 	"pt-login-continue-button": "مواصلة الولوج",
 	"pt-createaccount": "إنشاء حساب",
 	"pt-userlogout": "خروج",
-	"php-mail-error-unknown": "خطأ غير معروف في وظيفة البريد PHP's mail()",
+	"php-mail-error-unknown": "خطأ غير معروف في دالة PHP mail()",
 	"user-mail-no-addy": "لقد حاولت إرسال بريد إلكتروني دون عنوان بريد إلكتروني.",
 	"user-mail-no-body": "محاول ارسال بريد إلكتروني فارغ أو ذو نص قصير.",
 	"changepassword": "غير كلمة السر",
