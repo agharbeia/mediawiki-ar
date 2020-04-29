@@ -3,14 +3,14 @@
 		"authors": []
 	},
 	"fallbackLanguage": "en",
-    "namespace": {
+	"namespace": {
 		"labels": {
 	        "SMW_NS_PROPERTY": "خصيصة",
-    	    "SMW_NS_PROPERTY_TALK": "نقاش_الخصيصة",
-    	    "SMW_NS_TYPE": "نوع",
-    	    "SMW_NS_TYPE_TALK": "نقاش_النوع",
-    	    "SMW_NS_CONCEPT": "مفهوم",
-    	    "SMW_NS_CONCEPT_TALK": "نقاش_المفهوم"
+		"SMW_NS_PROPERTY_TALK": "نقاش_الخصيصة",
+		"SMW_NS_TYPE": "نوع",
+		"SMW_NS_TYPE_TALK": "نقاش_النوع",
+		"SMW_NS_CONCEPT": "مفهوم",
+		"SMW_NS_CONCEPT_TALK": "نقاش_المفهوم"
 		},
 	    "aliases": []
     },
@@ -59,7 +59,7 @@
     	    "_LEDT": "محرّرها الأخير",
     	    "_ERRP": "فيها قيمة غير صحيحة في",
     	    "_LIST": "فيها الحقول",
-    	    "_SOBJ": "تحوي الكائن الفرعي",
+    	    "_SOBJ": "فيها الكائن الفرعي",
     	    "_ASK": "فيها استعلام",
     	    "_ASKST": "نص الاستعلام",
     	    "_ASKFO": "صيغة الاستعلام",
