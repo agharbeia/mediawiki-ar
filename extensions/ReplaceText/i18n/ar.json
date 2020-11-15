@@ -41,7 +41,7 @@
 	"replacetext_blankwarning": "سلسلة الاستبدال فارغة لذا فلن يمكن عكس هذا الإجراء.",
 	"replacetext_continue": "واصل",
 	"replacetext_editsummary": "استبدال النص - '$1' إلى '$2'",
-	"right-replacetext": "أجرِ استبدال النصّ في الويكي بأكملها",
+	"right-replacetext": "إجراء استبدال النصّ في الويكي بأكملها",
 	"action-replacetext": "أجرِ استبدال النصّ في الويكي بأكملها",
 	"replacetext_reminder": "يمكن استبدال الروابط إلى هذه الصفحة في الصفحات الأخرى بواسطة $1."
 }
