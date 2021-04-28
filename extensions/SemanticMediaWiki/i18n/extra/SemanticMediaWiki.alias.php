@@ -41,14 +41,19 @@ $specialPageAliases['af'] = [
 
 /** Arabic (العربية) */
 $specialPageAliases['ar'] = [
-	'Ask' => [ 'سؤال' ],
+	'Ask' => [ 'استعلام' ],
 	'Browse' => [ 'تصفح' ],
-	'ExportRDF' => [ 'تصدير_RDF' ],
-	'PageProperty' => [ 'صفحة_خصيصة' ],
-	'Properties' => [ 'خصائص' ],
 	'Concepts' => [ 'مفاهيم' ],
-	'SMWAdmin' => [ 'إدارة_سمو', 'إدارة_ميدياويكي_دلالية' ],
+	'ConstraintErrorList' => [ 'أعطال_القيود' ],
+	'ExportRDF' => [ 'تصدير_RDF' ],
+	'MissingRedirectAnnotations' => [ 'وسوم_تحويل_مغفلة' ],
+	'PageProperty' => [ 'صفحة_خصيصة' ],
+	'PendingTaskList' => [ 'مهام_مجدولة' ],
+	'ProcessingErrorList' => [ 'أعطال_المعالجة' ],
+	'Properties' => [ 'خصائص' ],
+	'PropertyLabelSimilarity' => [ 'PropertyLabelSimilarity' ],
 	'SearchByProperty' => [ 'بحث_بالخصيصة' ],
+	'SMWAdmin' => [ 'إدارة_سمو', 'إدارة_ميدياويكي_دلالية' ],
 	'Types' => [ 'أنواع' ],
 	'URIResolver' => [ 'حال_URI' ],
 	'UnusedProperties' => [ 'خصائص_غير_مستخدمة' ],
@@ -65,22 +70,6 @@ $specialPageAliases['arc'] = [
 	'Types' => [ 'ܐܕ̈ܫܐ' ],
 	'UnusedProperties' => [ 'ܕܝܠܝܘ̈ܬܐ_ܠܐ_ܦܠܝܚ̈ܬܐ' ],
 	'WantedProperties' => [ 'ܕܝܠܝܘ̈ܬܐ_ܣܢܝܩ̈ܬܐ' ],
-];
-
-/** Egyptian Arabic (مصرى) */
-$specialPageAliases['arz'] = [
-	'Ask' => [ 'سؤال' ],
-	'Browse' => [ 'براوز' ],
-	'ExportRDF' => [ 'تصدير_RDF' ],
-	'PageProperty' => [ 'خاصية_الصفحه' ],
-	'Properties' => [ 'خصايص' ],
-	'Concepts' => [ 'مبادئ' ],
-	'SMWAdmin' => [ 'ادارى_SMW' ],
-	'SearchByProperty' => [ 'دوّر_بالخاصيه' ],
-	'Types' => [ 'انواع' ],
-	'URIResolver' => [ 'محلل_يو_ار_اى' ],
-	'UnusedProperties' => [ 'خصايص_مش_مستعمله' ],
-	'WantedProperties' => [ 'خصايص_مطلوبه' ],
 ];
 
 /** Assamese (অসমীয়া) */
