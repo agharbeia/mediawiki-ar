@@ -15,7 +15,7 @@ $specialPageAliases['en'] = [
 
 /** Arabic (العربية) */
 $specialPageAliases['ar'] = [
-	'Renameuser' => [ 'تغيير_اسم_مستخدم' ],
+	'Renameuser' => [ 'تغيير_أسماء_المستخدمين' ],
 ];
 
 /** Egyptian Arabic (مصرى) */
