@@ -164,7 +164,7 @@
 	"flow-error-parsoid-failure": "لا يمكن نقل المحتوى؛ بسب تعذّر الاتصال بالخادوم للتحويل بين نص ويكي و HTML لذلك افحص اتّصالك بالإنترنت أو حاول مجدّدًا لاحقا، و في حال تكرار العطل أرسل تقريرًا.",
 	"flow-error-protected-autoconfirmed-logged-in": "هذه الصفحة محمية فلا يمكن لغير المستخدمين المؤكدين تلقائيا المساهمة فيها.\nالسبب: $1",
 	"flow-error-protected-autoconfirmed-logged-out": "هذه الصفحة محمية فلا يمكن لغير المستخدمين المسجلين الذين لهم صلاحية مؤكد تلقائي المساهمة. السبب: $1",
-	"flow-error-protected-readonly": "Structured Discussions has been disabled on this wiki. No boards, topics or posts can be created or edited.",
+	"flow-error-protected-readonly": "النقاشات المهيكلة مُعطّلة في هذه الويكي، لذا لا يمكن فتح النقاشات و لا وضع التعليقات، و لا يمكن كذلك تحريرها.",
 	"flow-error-protected-sysop-logged-in": "هذه الصفحة محمية فلا يمكن لغير الإداريين المساهمة. السبب: $1",
 	"flow-error-protected-sysop-logged-out": "هذه الصفحة محمية فلا يمكن لغير المستخدمين المسجلين الذين لهم  صلاحية الإدارة المساهمة. السبب: $1",
 	"flow-error-protected-unknown-reason": "مجهول",
@@ -502,7 +502,7 @@
 	"flow-notification-link-text-enabled-on-talkpage": "{{GENDER:|شاهد}} صفحة نقاش المستخدم",
 	"flow-beta-feature-add-archive-template-edit-summary": "إضافة قالب أرشيف",
 	"flow-beta-feature-remove-archive-template-edit-summary": "إزالة قالب الأرشيف",
-	"flow-beta-feature-add-current-template-edit-summary": "Adding current template",
+	"flow-beta-feature-add-current-template-edit-summary": "يجري تضمين القالب الحالي",
 	"flow-dialog-cancelconfirm-title": "هل {{GENDER:|أنت}} متأكد؟",
 	"flow-dialog-cancelconfirm-message": "هل {{GENDER:|أنت}} متأكد أنك تريد الإلغاء بدون الحفظ أولا؟",
 	"flow-dialog-cancelconfirm-keep": "مواصلة التعديل",
@@ -519,5 +519,5 @@
 	"flow-guidedtour-optin-feedback-description": "{{GENDER:$1|يمكنك}} الحصول على أي معلومات إضافية، أو تزويدنا بأي تغذية راجعة، أو تعطيل النظام الجديد في أي وقت، وكل هذا من خلال قسم مميزات الإصدار التجريبي.",
 	"flow-action-not-page": "كائن الصفحة حتّة من فئة خطأ",
 	"flow-action-wrong-title-content-model": "الصفحة يتم التعامل معها بواسطة النقاشات المُهَيْكَلَة، لكن الكلاس Title تشير إلى أن موديل المحتوى هو '$1'.  هذا سوء ضبط أو حالة غير متناسقة.  على سبيل المثال، هذا ربما يكون صفحة غير تابعة للنقاشات المُهَيْكَلَة في نطاق للنقاشات المُهَيْكَلَة، مع <code>rev_content_model</code> غير مملوء.",
-	"flow-preference-visualeditor": "Enable the visual editor and the new wikitext mode in Structured Discussions"
+	"flow-preference-visualeditor": "تفعيل المحرر المرئي و&#8239;طور نصوص الويكي الحديث في النقاشات المهيكلة."
 }
