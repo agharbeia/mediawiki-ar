@@ -10,7 +10,7 @@
 			"ديفيد"
 		]
 	},
-	"renameuser": "تغيير اسم مستخدم",
+	"renameuser": "تغيير أسماء المستخدمين",
 	"renameuser-linkoncontribs": "غيّر اسم {{GENDER:$1|المستخدم|المستخدمة}}",
 	"renameuser-linkoncontribs-text": "غيّر اسم {{GENDER:$1|هذا المستخدم|هذه المستخدمة}}",
 	"renameuser-desc": "يضيف [[Special:RenameUser|صفحة خاصة]] لتغيير أسماء المستخدمين (يتطلّب صلاحية ''renameuser'')",
