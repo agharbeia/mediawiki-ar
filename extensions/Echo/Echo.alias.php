@@ -17,7 +17,7 @@ $specialPageAliases['en'] = [
 
 /** Arabic (العربية) */
 $specialPageAliases['ar'] = [
-	'Notifications' => [ 'تنويهات' ],
+	'Notifications' => [ 'إخطارات' ],
 ];
 
 /** Egyptian Arabic (مصرى) */
