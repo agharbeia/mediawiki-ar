@@ -7,7 +7,6 @@
  * @ingroup PF
  * @author أحمد غربية <ahmad@arabdigitalexpression.org>
  */
-// @codingStandardsIgnoreFile
 
 $specialPageAliases = [];
 
@@ -18,6 +17,7 @@ $specialPageAliases['en'] = [
 	'CreateForm' => [ 'CreateForm' ],
 	'CreateProperty' => [ 'CreateProperty' ],
 	'CreateTemplate' => [ 'CreateTemplate' ],
+	'MultiPageEdit' => [ 'MultiPageEdit' ],
 	'FormEdit' => [ 'FormEdit', 'AddData', 'EditData' ],
 	'FormStart' => [ 'FormStart', 'AddPage' ],
 	'Forms' => [ 'Forms' ],
@@ -33,6 +33,7 @@ $specialPageAliases['ar'] = [
 	'CreateForm' => [ 'إنشاء_استمارة' ],
 	'CreateProperty' => [ 'إنشاء_خصيصة' ],
 	'CreateTemplate' => [ 'إنشاء_قالب' ],
+	'MultiPageEdit' => [ 'تحرير_صفحات' ],
 	'FormEdit' => [ 'تعديل_البيانات' ],
 	'FormStart' => [ 'تفعيل_استمارة' ],
 	'Forms' => [ 'الاستمارات' ],

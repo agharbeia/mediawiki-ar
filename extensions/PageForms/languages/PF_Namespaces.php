@@ -8,7 +8,7 @@
  * @file PF_Namespaces.php
  * @ingroup PageForms
  *
- * @licence GNU GPL v2+
+ * @license GPL-2.0-or-later
  * @author Jeroen De Dauw < jeroendedauw@gmail.com >
  * @author Yaron Koren
  */
@@ -22,7 +22,7 @@ if ( !defined( 'PF_NS_FORM' ) ) {
 
 /**
  * @author Meno25
- * @author أحمد غربية <ahmad@arabdigitalexpression.org>
+ * @author أحمد غربية <ahmad@gharbeia.org>
  */
 $namespaceNames['ar'] = [
 	PF_NS_FORM           => 'استمارة',

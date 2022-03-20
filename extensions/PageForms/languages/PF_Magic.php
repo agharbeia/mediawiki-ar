@@ -22,11 +22,11 @@ $magicWords['en'] = [
 /** Arabic (العربية) */
 $magicWords['ar'] = [
 	'default_form' => [ 0, 'استمارة_استبدائية' ],
-	'forminput' => [ 0, 'إدخال_في_الاستمارة' ],
+	'forminput' => [ 0, 'إدخال_باستمارة' ],
 	'formlink' => [ 0, 'رابط_استمارة' ],
 	'queryformlink' => [ 0, 'رابط_استمارة_استعلام' ],
 	'arraymap' => [ 0, 'مطابقة_مصفوفة' ],
-	'arraymaptemplate' => [ 0, 'قالب_مطابقة_مصفوفة' ],
+	'arraymaptemplate' => [ 0, 'مطابقة_مصفوفة_بقالب' ],
 	'autoedit' => [ 0, 'تعديل_تلقائي' ],
 ];
 
